@@ -1,0 +1,63 @@
+header{
+    position: relative;
+    background: url(img/ocean.jpg) center;
+    background-size: cover;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+/* decide the horizontal distance between the icons. */
+.logo {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+ 
+/* to decide the width of the below text written */
+.logo .logo-item {
+    max-width: 20rem;
+}
+
+/* to decide the height between the icon and the text */
+.logo .logo-item .logo-icon {
+    height: 7rem;
+}
+ 
+/*to decide the height of the icons. */
+.logo .logo-item .logo-icon i {
+    font-size: 4.5rem;
+}
+
+.showcase .showcase-text {
+    padding: 3rem;
+}
+  
+.showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+}
+  
+.people {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+  
+.people .people-dust {
+    max-width: 18rem;
+}
+  
+.people .people-dust img {
+    max-width: 10rem;
+}
+
+.email{
+    position: relative;
+    background: url(img/ocean.jpg) center;
+    background-size: cover;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+footer{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
